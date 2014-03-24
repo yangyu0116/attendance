@@ -1,0 +1,333 @@
+login time：2010年08月16日 11:46:40 - yuchen
+login time：2010年08月16日 11:47:13 - xuda
+login time：2010年08月16日 11:47:17 - qimeng
+login time：2010年08月16日 11:47:49 - chengxuan
+login time：2010年08月16日 11:48:02 - chaoqi
+login time：2010年08月16日 11:48:03 - kangsai
+login time：2010年08月16日 11:53:12 - hanxu
+login time：2010年08月16日 11:53:39 - fuqiang1
+login time：2010年08月16日 11:53:59 - junhui
+login time：2010年08月16日 11:54:02 - chengzhi
+login time：2010年08月16日 11:54:06 - jiangxin
+Illegal Access：2010年08月16日 11:54:06 - jiangxin —— not tec.dept staff 
+login time：2010年08月16日 11:54:14 - guojia
+login time：2010年08月16日 11:54:16 - tangyi
+login time：2010年08月16日 11:54:18 - guoqiang
+login time：2010年08月16日 11:54:23 - zhiwei4
+Illegal Access：2010年08月16日 11:54:23 - zhiwei4 —— not tec.dept staff 
+login time：2010年08月16日 11:54:24 - libin
+login time：2010年08月16日 11:54:26 - qianyu
+Illegal Access：2010年08月16日 11:54:26 - qianyu —— not tec.dept staff 
+login time：2010年08月16日 11:54:34 - xiwei
+login time：2010年08月16日 11:54:51 - xiaowei
+login time：2010年08月16日 11:55:02 - zaifeng
+login time：2010年08月16日 11:55:06 - yunpeng
+Illegal Access：2010年08月16日 11:55:06 - yunpeng —— not tec.dept staff 
+login time：2010年08月16日 11:55:16 - xiangliang1
+login time：2010年08月16日 11:55:20 - xiaowu
+Illegal Access：2010年08月16日 11:55:20 - xiaowu —— not tec.dept staff 
+login time：2010年08月16日 11:55:21 - lihao
+login time：2010年08月16日 11:55:21 - panxia
+Illegal Access：2010年08月16日 11:55:21 - panxia —— not tec.dept staff 
+login time：2010年08月16日 11:55:40 - zhibin
+login time：2010年08月16日 11:55:43 - xinxin
+Illegal Access：2010年08月16日 11:55:43 - xinxin —— not tec.dept staff 
+login time：2010年08月16日 11:56:01 - yizhou1
+login time：2010年08月16日 11:56:15 - wangshen
+login time：2010年08月16日 11:56:25 - xiaoping1
+login time：2010年08月16日 11:56:32 - zhiliang
+Illegal Access：2010年08月16日 11:56:32 - zhiliang —— not tec.dept staff 
+login time：2010年08月16日 11:56:35 - yongliang
+login time：2010年08月16日 11:56:36 - wangnan
+Illegal Access：2010年08月16日 11:56:36 - wangnan —— not tec.dept staff 
+login time：2010年08月16日 11:56:45 - shina
+login time：2010年08月16日 11:57:02 - xiaolong1
+login time：2010年08月16日 11:57:03 - enhui
+login time：2010年08月16日 11:57:09 - mingli
+login time：2010年08月16日 11:57:15 - xiaolong1
+login time：2010年08月16日 11:57:45 - zhangyuan
+login time：2010年08月16日 11:58:09 - chenfeng1
+login time：2010年08月16日 12:00:03 - gongjun
+Illegal Access：2010年08月16日 12:00:03 - gongjun —— not tec.dept staff 
+login time：2010年08月16日 12:00:17 - chenjin
+Illegal Access：2010年08月16日 12:00:18 - chenjin —— not tec.dept staff 
+login time：2010年08月16日 12:00:41 - jiazhu
+login time：2010年08月16日 12:01:15 - weiwei3
+Illegal Access：2010年08月16日 12:01:16 - weiwei3 —— not tec.dept staff 
+login time：2010年08月16日 12:01:44 - dengchao
+login time：2010年08月16日 12:01:50 - xiaowei
+login time：2010年08月16日 12:03:41 - hongfu
+login time：2010年08月16日 12:05:03 - liming1
+Illegal Access：2010年08月16日 12:06:07 - zhiliang —— not tec.dept staff 
+login time：2010年08月16日 12:06:34 - dingjian
+login time：2010年08月16日 12:11:07 - xueyuan
+login time：2010年08月16日 12:22:48 - dongliang
+login time：2010年08月16日 12:24:35 - yibo
+login time：2010年08月16日 12:25:14 - ouyi
+login time：2010年08月16日 12:26:41 - yuchen
+login time：2010年08月16日 12:26:53 - lihui1
+login time：2010年08月16日 12:27:42 - shiqiang
+Illegal Access：2010年08月16日 12:29:19 - guoqiang1 —— not tec.dept staff 
+Illegal Access：2010年08月16日 12:29:27 - guoqiang1 —— not tec.dept staff 
+Illegal Access：2010年08月16日 12:32:32 - guoqiang1 —— not tec.dept staff 
+login time：2010年08月16日 12:35:37 - shanghui
+login time：2010年08月16日 12:36:40 - dengwei
+login time：2010年08月16日 12:36:43 - penghai
+Illegal Access：2010年08月16日 12:36:44 - penghai —— not tec.dept staff 
+login time：2010年08月16日 12:37:36 - pengtao
+login time：2010年08月16日 12:44:17 - wangying
+login time：2010年08月16日 12:44:38 - yedong
+login time：2010年08月16日 12:44:39 - jinglin
+login time：2010年08月16日 12:45:34 - yijing
+Illegal Access：2010年08月16日 12:45:34 - yijing —— not tec.dept staff 
+login time：2010年08月16日 12:45:36 - zhangyuan
+login time：2010年08月16日 12:46:08 - dongxu
+login time：2010年08月16日 12:46:30 - gongjun
+login time：2010年08月16日 12:51:21 - yedong
+login time：2010年08月16日 12:51:22 - lihao
+Illegal Access：2010年08月16日 12:51:32 - yijing —— not tec.dept staff 
+login time：2010年08月16日 12:51:41 - xiongnan
+login time：2010年08月16日 12:51:50 - xiaojing2
+login time：2010年08月16日 12:54:02 - hanxu
+login time：2010年08月16日 12:54:30 - lijie2
+login time：2010年08月16日 12:54:44 - liuna
+Illegal Access：2010年08月16日 12:54:44 - liuna —— not tec.dept staff 
+login time：2010年08月16日 12:55:37 - tiancan
+login time：2010年08月16日 12:56:32 - zhangfan
+login time：2010年08月16日 12:57:59 - zhiliang
+Illegal Access：2010年08月16日 12:58:06 - liuna —— not tec.dept staff 
+login time：2010年08月16日 12:58:26 - enhui
+login time：2010年08月16日 12:59:26 - xinxin
+Illegal Access：2010年08月16日 12:59:26 - xinxin —— not tec.dept staff 
+login time：2010年08月16日 13:02:45 - yanbao
+login time：2010年08月16日 13:04:53 - haie
+Illegal Access：2010年08月16日 13:04:53 - haie —— not tec.dept staff 
+login time：2010年08月16日 13:04:56 - zhibin
+login time：2010年08月16日 13:05:14 - mingyu
+Illegal Access：2010年08月16日 13:05:14 - mingyu —— not tec.dept staff 
+login time：2010年08月16日 13:05:23 - zhibin
+login time：2010年08月16日 13:05:54 - xiangliang1
+login time：2010年08月16日 13:06:11 - junhui
+login time：2010年08月16日 13:06:47 - xiaojuan
+login time：2010年08月16日 13:07:10 - liting
+login time：2010年08月16日 13:07:35 - tangyi
+login time：2010年08月16日 13:09:49 - dengchao
+login time：2010年08月16日 13:11:05 - guoying
+login time：2010年08月16日 13:11:09 - wenqing1
+login time：2010年08月16日 13:14:47 - guojia
+login time：2010年08月16日 13:16:12 - liuxin
+login time：2010年08月16日 13:16:40 - pijian
+login time：2010年08月16日 13:16:55 - yifan
+login time：2010年08月16日 13:17:16 - qimeng
+login time：2010年08月16日 13:18:51 - wanglei1
+login time：2010年08月16日 13:21:45 - wangzheng
+Illegal Access：2010年08月16日 13:21:45 - wangzheng —— not tec.dept staff 
+login time：2010年08月16日 13:22:07 - qianyu
+Illegal Access：2010年08月16日 13:22:42 - wangzheng —— not tec.dept staff 
+Illegal Access：2010年08月16日 13:22:46 - wangzheng —— not tec.dept staff 
+login time：2010年08月16日 13:23:33 - liming1
+login time：2010年08月16日 13:24:54 - zaifeng
+login time：2010年08月16日 13:25:00 - zongjun
+login time：2010年08月16日 13:26:42 - shiqiang
+login time：2010年08月16日 13:28:35 - yizhou1
+login time：2010年08月16日 13:29:25 - zhipeng
+login time：2010年08月16日 13:29:30 - xiaolong1
+login time：2010年08月16日 13:29:40 - zhiwei4
+login time：2010年08月16日 13:29:45 - xiaolong1
+login time：2010年08月16日 13:29:56 - xueli1
+login time：2010年08月16日 13:30:14 - shanghui
+login time：2010年08月16日 13:30:20 - hongliang1
+Illegal Access：2010年08月16日 13:30:28 - yangyu —— not tec.dept staff 
+login time：2010年08月16日 13:32:06 - guangjin
+login time：2010年08月16日 13:32:29 - dengchao
+login time：2010年08月16日 13:35:05 - wangnan
+Illegal Access：2010年08月16日 13:35:05 - wangnan —— not tec.dept staff 
+login time：2010年08月16日 13:36:00 - tangyi
+login time：2010年08月16日 13:36:30 - mingyu
+Illegal Access：2010年08月16日 13:36:30 - mingyu —— not tec.dept staff 
+login time：2010年08月16日 13:40:10 - liuming
+Illegal Access：2010年08月16日 13:41:07 - yangyu —— not tec.dept staff 
+login time：2010年08月16日 13:41:15 - zhangxuan
+Illegal Access：2010年08月16日 13:41:15 - zhangxuan —— not tec.dept staff 
+login time：2010年08月16日 13:41:34 - pijian
+login time：2010年08月16日 13:43:00 - guoqiang1
+login time：2010年08月16日 13:43:19 - kaituo
+Illegal Access：2010年08月16日 13:43:19 - kaituo —— not tec.dept staff 
+Illegal Access：2010年08月16日 13:43:26 - kaituo —— not tec.dept staff 
+login time：2010年08月16日 13:43:56 - baoyue
+Illegal Access：2010年08月16日 13:43:56 - baoyue —— not tec.dept staff 
+login time：2010年08月16日 13:44:03 - shina
+login time：2010年08月16日 13:44:21 - zhiwen
+login time：2010年08月16日 13:45:02 - qimeng
+login time：2010年08月16日 13:46:00 - liuming
+Illegal Access：2010年08月16日 13:46:13 - kaituo —— not tec.dept staff 
+login time：2010年08月16日 13:47:25 - chengxuan
+login time：2010年08月16日 13:48:38 - xueyuan
+Illegal Access：2010年08月16日 13:48:54 - kaituo —— not tec.dept staff 
+login time：2010年08月16日 13:49:10 - xiexin
+login time：2010年08月16日 13:50:29 - baoyue
+login time：2010年08月16日 13:51:56 - zhangfan
+login time：2010年08月16日 13:52:22 - suoyong
+login time：2010年08月16日 13:52:59 - qianyu
+login time：2010年08月16日 13:53:00 - zhangyan
+login time：2010年08月16日 13:53:21 - liwei3
+login time：2010年08月16日 13:54:04 - guangjin
+login time：2010年08月16日 13:54:40 - guojia
+login time：2010年08月16日 13:54:46 - enhui
+login time：2010年08月16日 13:56:04 - penghai
+Illegal Access：2010年08月16日 13:56:04 - penghai —— not tec.dept staff 
+login time：2010年08月16日 13:57:20 - xuda
+login time：2010年08月16日 13:58:50 - jiangxin
+login time：2010年08月16日 13:58:59 - liuna
+login time：2010年08月16日 13:59:17 - dongxu
+login time：2010年08月16日 13:59:54 - jiangxin
+login time：2010年08月16日 14:01:35 - liujian
+login time：2010年08月16日 14:01:56 - dengwei
+login time：2010年08月16日 14:02:16 - fuqiang
+login time：2010年08月16日 14:02:57 - wangshen
+login time：2010年08月16日 14:05:21 - weiwei3
+Illegal Access：2010年08月16日 14:05:21 - weiwei3 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:06:16 - weiwei3 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:06:19 - weiwei3 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:06:20 - weiwei3 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:06:20 - weiwei3 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:06:22 - weiwei3 —— not tec.dept staff 
+login time：2010年08月16日 14:07:23 - yijing
+login time：2010年08月16日 14:07:37 - lvbing
+login time：2010年08月16日 14:08:31 - weili
+Illegal Access：2010年08月16日 14:08:31 - weili —— not tec.dept staff 
+login time：2010年08月16日 14:08:53 - qipeng
+login time：2010年08月16日 14:13:17 - fuqiang1
+login time：2010年08月16日 14:19:57 - dingjian
+login time：2010年08月16日 14:23:54 - xueli1
+login time：2010年08月16日 14:34:08 - huanyu
+login time：2010年08月16日 14:37:20 - mingyu
+login time：2010年08月16日 14:39:11 - jinyan1
+Illegal Access：2010年08月16日 14:39:11 - jinyan1 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:39:24 - jinyan1 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:39:25 - jinyan1 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:39:28 - jinyan1 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:39:35 - jinyan1 —— not tec.dept staff 
+login time：2010年08月16日 14:39:40 - zhiwei5
+Illegal Access：2010年08月16日 14:39:40 - zhiwei5 —— not tec.dept staff 
+login time：2010年08月16日 14:39:41 - wenqing1
+Illegal Access：2010年08月16日 14:39:47 - zhiwei5 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:39:53 - zhiwei5 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:41:30 - weili —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:42:18 - zhiwei5 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:43:21 - jinyan1 —— not tec.dept staff 
+login time：2010年08月16日 14:43:25 - lipei
+login time：2010年08月16日 14:43:54 - jinyan1
+Illegal Access：2010年08月16日 14:43:54 - jinyan1 —— not tec.dept staff 
+Illegal Access：2010年08月16日 14:46:15 - weili —— not tec.dept staff 
+login time：2010年08月16日 14:48:14 - jinyan1
+Illegal Access：2010年08月16日 14:48:46 - weili —— not tec.dept staff 
+login time：2010年08月16日 14:50:35 - qipeng1
+login time：2010年08月16日 14:52:24 - zaifeng
+login time：2010年08月16日 14:57:27 - guoning
+login time：2010年08月16日 14:58:39 - shiwu
+Illegal Access：2010年08月16日 14:58:39 - shiwu —— not tec.dept staff 
+login time：2010年08月16日 14:58:53 - jinyan1
+login time：2010年08月16日 15:18:46 - liming1
+login time：2010年08月16日 15:25:59 - xiexin
+login time：2010年08月16日 15:31:24 - xuda
+login time：2010年08月16日 15:47:46 - chenliang
+login time：2010年08月16日 15:54:01 - shina
+login time：2010年08月16日 16:04:42 - wangchong
+login time：2010年08月16日 16:23:19 - yedong
+login time：2010年08月16日 16:26:08 - haie
+login time：2010年08月16日 16:29:13 - yongliang
+login time：2010年08月16日 16:34:54 - guoqiang1
+login time：2010年08月16日 16:35:45 - gongjun
+login time：2010年08月16日 16:41:14 - xiaona1
+Illegal Access：2010年08月16日 16:41:14 - xiaona1 —— not tec.dept staff 
+login time：2010年08月16日 16:44:16 - guoqiang1
+login time：2010年08月16日 16:46:19 - xiaona1
+Illegal Access：2010年08月16日 16:46:19 - xiaona1 —— not tec.dept staff 
+login time：2010年08月16日 16:46:48 - xinxin
+login time：2010年08月16日 16:51:44 - yijing
+login time：2010年08月16日 16:52:52 - liuna
+login time：2010年08月16日 16:53:18 - zhangquan
+login time：2010年08月16日 17:00:56 - zhiyuan1
+Illegal Access：2010年08月16日 17:00:56 - zhiyuan1 —— not tec.dept staff 
+login time：2010年08月16日 17:03:52 - zhiwei5
+login time：2010年08月16日 17:18:50 - suoyong
+login time：2010年08月16日 17:40:45 - guoqiang1
+login time：2010年08月16日 17:46:02 - jingwei
+login time：2010年08月16日 17:48:09 - jingwei
+login time：2010年08月16日 17:52:57 - jingwei
+login time：2010年08月17日 09:17:12 - liuna
+login time：2010年08月17日 10:23:46 - chengxuan
+login time：2010年08月17日 10:33:48 - tangyi
+login time：2010年08月17日 10:35:54 - zhibin
+login time：2010年08月17日 13:12:15 - chaoqi
+login time：2010年08月17日 14:28:31 - yedong
+login time：2010年08月17日 14:51:55 - shina
+login time：2010年08月17日 15:23:30 - mingyu
+login time：2010年08月17日 16:05:42 - guoqiang1
+login time：2010年08月17日 16:05:47 - guangjin
+login time：2010年08月17日 17:48:39 - chenliang
+login time：2010年08月17日 17:53:23 - chengxuan
+login time：2010年08月18日 09:13:26 - wangnan
+login time：2010年08月18日 09:38:47 - shina
+login time：2010年08月18日 11:01:27 - gongjun
+login time：2010年08月18日 16:01:00 - chengxuan
+login time：2010年08月20日 13:34:05 - gongjun
+login time：2010年08月20日 13:48:46 - chaoqi
+login time：2010年08月20日 14:45:41 - xiaona1
+login time：2010年08月23日 15:52:42 - xiaona1
+login time：2010年08月23日 17:34:41 - gongjun
+login time：2010年08月24日 13:22:42 - zhiwei5
+login time：2010年08月24日 14:34:49 - wangying
+login time：2010年08月25日 11:22:10 - gongjun
+login time：2010年08月25日 11:34:35 - zhiwei5
+login time：2010年08月25日 16:00:59 - xiaona1
+login time：2010年08月25日 16:18:21 - zhipeng
+login time：2010年08月25日 17:31:53 - liming1
+login time：2010年08月26日 10:52:48 - wangzheng
+login time：2010年08月26日 16:17:47 - wangzheng
+login time：2010年08月30日 09:54:50 - zhiwei5
+login time：2010年08月30日 10:07:42 - gongjun
+login time：2010年08月31日 11:07:00 - zhiwei5
+login time：2010年08月31日 17:18:05 - xiaona1
+login time：2010年08月31日 18:03:47 - mingyu
+login time：2010年08月31日 18:25:27 - zhiwei5
+login time：2010年09月01日 10:09:30 - zhiwei5
+login time：2010年09月01日 11:57:50 - libin
+login time：2010年09月01日 12:55:01 - gongjun
+login time：2010年09月01日 14:01:10 - chaoqi
+login time：2010年09月01日 14:50:36 - zhiwei4
+login time：2010年09月01日 15:26:22 - chengzhi
+login time：2010年09月02日 09:25:05 - wangnan
+login time：2010年09月02日 11:41:57 - xiaona1
+login time：2010年09月02日 13:16:42 - yunpeng
+login time：2010年09月02日 14:27:33 - zhiwei5
+login time：2010年09月02日 14:42:55 - guojia
+login time：2010年09月02日 14:48:32 - jiangxin
+login time：2010年09月02日 16:32:48 - chengxuan
+login time：2010年09月03日 11:09:32 - wangzheng
+login time：2010年09月06日 10:23:10 - qianyu
+login time：2010年09月06日 10:45:34 - libin
+login time：2010年09月06日 11:37:41 - chengxuan
+login time：2010年09月07日 11:53:49 - jiangxin
+login time：2010年09月07日 14:55:36 - lijie2
+login time：2010年09月08日 13:37:46 - libin
+login time：2010年09月08日 14:23:17 - weiwei3
+login time：2010年09月08日 15:15:22 - zhiwei5
+login time：2010年09月09日 17:15:11 - xiaolong1
+login time：2010年09月14日 15:01:21 - wangzheng
+login time：2010年09月15日 11:45:09 - gongjun
+login time：2010年09月15日 18:13:56 - xiaona1
+login time：2010年09月16日 09:46:41 - weiwei3
+login time：2010年09月16日 09:47:33 - wenqing1
+login time：2010年09月16日 09:47:50 - xuda
+login time：2010年09月16日 09:48:51 - mingyu
+login time：2010年09月16日 09:48:58 - jiangxin
+login time：2010年09月16日 09:48:58 - hongliang1
+login time：2010年09月16日 09:49:00 - qianyu
+login time：2010年09月16日 09:49:36 - guojia
+login time：2010年09月16日 09:49:39 - jinglin
+login time：2010年09月16日 09:49:42 - mingli
+login time：2010年09月16日 09:49:44 - guoqiang1
+login time：2010年09月16日 09:49:57 - xiaojing2
+login time：2010年09月16日 09:50:04 - gongjun

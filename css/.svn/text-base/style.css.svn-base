@@ -1,0 +1,67 @@
+body{
+	margin:5px;SCROLLBAR-FACE-COLOR: #f6f6f6; BACKGROUND: url(/images/bg/12.gif) center 50%; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #cccccc; SCROLLBAR-3DLIGHT-COLOR: #cccccc; SCROLLBAR-ARROW-COLOR: #330000; SCROLLBAR-TRACK-COLOR: #f6f6f6; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; TEXT-DECORATION: none
+}
+/*
+#table td{
+	background-color:transparent;
+}
+*/
+#table tr.color1{
+	background-color:#FFFFFF;
+}
+#table tr.color2{
+	background-color:#F8F8F8;
+}
+hr{
+	COLOR: gray;border-style:dotted; HEIGHT: 1;
+}
+a{ 
+	color:#000
+}
+a:hover{ 
+	text-decoration:underline; color:#F00
+}
+select{
+	width:110px;height:21px;border:1px solid #BDC7D8;margin:-2px;*margin:-6px -1px 0px -2px !important;*margin:-2px; 
+} 
+.td_style td{
+	text-align:center;font-size:12px;
+}
+.input_box{
+	width:150px;border:1px solid #999999;color:gray
+}
+.button {
+	font: 12px Arial, Helvetica, sans-serif;
+	padding: 0 3px;
+	color: #000;
+	background: url(/images/button/bg_menu.gif) repeat-x;
+	/*filter: alpha(opacity=70);   transparency for IE; note no decimal point */
+	/*for Mozilla*/
+ 	outline: 1px solid #1590BE ;
+	border: 1px solid #FFFFFF !important;
+	height: 20px !important;
+	line-height: 17px !important;
+
+	/*for IE7*/
+	> border: 1px solid #1590BE !important;
+	> height: 20px !important;
+	> line-height: 17px !important;
+}
+#toolbar,.toolbar{	
+	opacity: .75;               /* standard CSS3 style for transparency */
+	-moz-opacity: .75;          /* transparency for older Mozillas */
+	filter: alpha(opacity=75);  /* transparency for IE; note no decimal point */
+	z-index: 100;
+	position: absolute;
+}
+.submit {
+	background:transparent url(/images/button/bg_01.png) no-repeat scroll 0 -450px;
+	border:medium none;
+	color:#FFFFFF;
+	cursor:pointer;
+	font-family:"microsoft yahei","Î¢ÈíÑÅºÚ","simsun","ËÎÌå";
+	font-size:100%;
+	height:24px;
+	line-height:26px;
+	width:90px;
+}
